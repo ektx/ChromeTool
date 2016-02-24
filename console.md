@@ -1,4 +1,4 @@
-## console
+## Console
 
 ### console.time('name') & console.timeEnd('name')
 这2个方法可以让我们快速监听我们的代码在这之间处理时所耗时长  
